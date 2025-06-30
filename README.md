@@ -4,10 +4,9 @@ This repository contains the official implementation, pretrained models, and eva
 
 > **How Many Tokens Do 3D Point Cloud Transformer Architectures Really Need?**  
 [![ArXiv](https://img.shields.io/badge/Paper-ArXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.02615v3)
-[![Hugging Face](https://img.shields.io/badge/🤗%20Model-HuggingFace-blue)](https://huggingface.co/MERGE-Group)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC%204.0-lightgrey.svg)](https://github.com/duyhominhnguyen/Exgra-Med/blob/main/LICENSE)
-
-
+[![Website](https://img.shields.io/badge/🌐%20Project%20Page-Token--Merging--3DTransformer-green)](https://github.com/duyhominhnguyen/token-merging-3DTransformer/edit/main)
+ 
 ---
 
 ## 📌 Abstract
